@@ -1,0 +1,7 @@
+{
+    "title": "What will I do today?",
+    "empty_task_list": "Let's Add Task",
+    "add_new_task":"Add new task",
+    "delete_task":"Delete this task",
+    "notfound_task":"The requested task was not found."
+}
